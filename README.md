@@ -27,6 +27,6 @@ To design an interactive dashboard that analyzes ticket prices, flight volumes, 
 
 # Tools & Skills Used
 - Data Visualization: Tableau
-- Data Cleaning: Excel / Python (pandas)
+- Data Cleaning: Excel 
 - Data Analysis: Exploratory analysis & trend identification
 - Storytelling: Dashboard design focused on business usability
